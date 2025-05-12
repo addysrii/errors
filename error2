@@ -1,4 +1,183 @@
- file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt:138:66 Elvis operator (?:) always returns the left operand of non-nullable type Boolean
+ ./gradlew :app:assembleDebug --stacktrace
+
+> Configure project :react-native-firebase_app
+:react-native-firebase_app package.json found at D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-firebase\app\package.json
+:react-native-firebase_app:firebase.bom using default value: 33.12.0
+:react-native-firebase_app:play.play-services-auth using default value: 21.3.0
+:react-native-firebase_app package.json found at D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-firebase\app\package.json
+:react-native-firebase_app:version set from package.json: 21.14.0 (21,14,0 - 21014000)
+:react-native-firebase_app:android.compileSdk using custom value: 35
+:react-native-firebase_app:android.targetSdk using custom value: 35
+:react-native-firebase_app:android.minSdk using custom value: 24
+:react-native-firebase_app:reactNativeAndroidDir D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native\android
+
+> Configure project :react-native-maps
+[react-native-maps] Thank you for using react-native-maps ??! 
+[react-native-maps] to help keep it maintained, please consider sponsoring at https://github.com/sponsors/salah-ghanim
+
+> Configure project :react-native-reanimated
+Android gradle plugin: 8.6.0
+Gradle: 8.13
+
+> Task :react-native-async-storage_async-storage:processDebugManifest
+package="com.reactnativecommunity.asyncstorage" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-async-storage\async-storage\android\src\main\AndroidManifest.xml.                                             
+Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
+Recommendation: remove package="com.reactnativecommunity.asyncstorage" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-async-storage\async-storage\android\src\main\AndroidManifest.xml.
+
+> Task :react-native-community_netinfo:processDebugManifest
+package="com.reactnativecommunity.netinfo" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-community\netinfo\android\src\main\AndroidManifest.xml.
+Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
+Recommendation: remove package="com.reactnativecommunity.netinfo" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-community\netinfo\android\src\main\AndroidManifest.xml.
+
+> Task :react-native-community_slider:processDebugManifest
+package="com.reactnativecommunity.slider" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-community\slider\android\src\main\AndroidManifest.xml.
+Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
+Recommendation: remove package="com.reactnativecommunity.slider" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-community\slider\android\src\main\AndroidManifest.xml.
+
+> Task :react-native-firebase_app:processDebugManifest
+package="io.invertase.firebase" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-firebase\app\android\src\main\AndroidManifest.xml.
+Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
+Recommendation: remove package="io.invertase.firebase" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-firebase\app\android\src\main\AndroidManifest.xml.
+
+> Task :react-native-gesture-handler:processDebugManifest
+package="com.swmansion.gesturehandler" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\src\main\AndroidManifest.xml.
+Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
+Recommendation: remove package="com.swmansion.gesturehandler" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\src\main\AndroidManifest.xml.
+
+> Task :react-native-google-signin_google-signin:processDebugManifest
+package="com.reactnativegooglesignin" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-google-signin\google-signin\android\src\main\AndroidManifest.xml.
+Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
+Recommendation: remove package="com.reactnativegooglesignin" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-google-signin\google-signin\android\src\main\AndroidManifest.xml.
+
+> Task :react-native-picker_picker:processDebugManifest
+package="com.reactnativecommunity.picker" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-picker\picker\android\src\main\AndroidManifest.xml.
+Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
+Recommendation: remove package="com.reactnativecommunity.picker" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-picker\picker\android\src\main\AndroidManifest.xml.
+
+> Task :react-native-safe-area-context:processDebugManifest
+package="com.th3rdwave.safeareacontext" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-safe-area-context\android\src\main\AndroidManifest.xml.
+Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
+Recommendation: remove package="com.th3rdwave.safeareacontext" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-safe-area-context\android\src\main\AndroidManifest.xml.
+
+> Task :react-native-screens:processDebugManifest
+package="com.swmansion.rnscreens" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-screens\android\src\main\AndroidManifest.xml.
+Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
+Recommendation: remove package="com.swmansion.rnscreens" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-screens\android\src\main\AndroidManifest.xml.
+
+> Task :react-native-view-shot:processDebugManifest
+package="fr.greweb.reactnativeviewshot" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-view-shot\android\src\main\AndroidManifest.xml.
+Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
+Recommendation: remove package="fr.greweb.reactnativeviewshot" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-view-shot\android\src\main\AndroidManifest.xml.
+
+> Task :react-native-async-storage_async-storage:compileDebugJavaWithJavac
+D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-async-storage\async-storage\android\src\main\java\com\reactnativecommunity\asyncstorage\AsyncStorageModule.java:84: warning: [removal] onCatalystInstanceDestroy() in NativeModule has been deprecated and marked for removal
+  public void onCatalystInstanceDestroy() {
+              ^
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-async-storage\async-storage\android\src\javaPackage\java\com\reactnativecommunity\asyncstorage\AsyncStoragePackage.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+1 warning
+
+> Task :react-native-community_netinfo:compileDebugJavaWithJavac
+D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-community\netinfo\android\src\main\java\com\reactnativecommunity\netinfo\NetInfoModule.java:47: warning: [removal] onCatalystInstanceDestroy() in NativeModule has been deprecated and marked for removal
+    public void onCatalystInstanceDestroy() {
+                ^
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+1 warning
+
+> Task :react-native-community_slider:compileDebugJavaWithJavac
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+
+> Task :react-native-firebase_app:compileDebugJavaWithJavac
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+
+> Task :react-native-reanimated:compileDebugJavaWithJavac
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+> Task :react-native-community_datetimepicker:compileDebugJavaWithJavac
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+
+> Task :react-native-maps:compileDebugJavaWithJavac
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+> Task :react-native-google-signin_google-signin:compileDebugJavaWithJavac
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+Note: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-google-signin\google-signin\android\src\main\java\com\reactnativegooglesignin\RNGoogleSigninModule.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+> Task :react-native-picker_picker:compileDebugJavaWithJavac
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+
+> Task :react-native-view-shot:compileDebugJavaWithJavac
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+
+> Task :react-native-gesture-handler:compileDebugKotlin                                                                        
+e: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerModule.kt:470:32 Only safe (?.) or non-null asserted (!!.) calls are allowed on a nullable receiver of type JavaScriptContextHolder?
+
+> Task :react-native-gesture-handler:compileDebugKotlin FAILED
+
+> Task :react-native-safe-area-context:compileDebugKotlin
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-safe-area-context/android/src/main/java/com/th3rdwave/safeareacontext/SafeAreaContextPackage.kt:27:11 'constructor ReactModuleInfo(String, String, Boolean, Boolean, Boolean, Boolean, Boolean)' is deprecated. use ReactModuleInfo(String, String, boolean, boolean, boolean, boolean)]                                
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-safe-area-context/android/src/main/java/com/th3rdwave/safeareacontext/SafeAreaContextPackage.kt:33:27 'getter for hasConstants: Boolean' is deprecated. This property is unused and it's planning to be removed in a future version of
+        React Native. Please refrain from using it.
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-safe-area-context/android/src/main/java/com/th3rdwave/safeareacontext/SafeAreaView.kt:59:23 'getter for uiImplementation: UIImplementation!' is deprecated. Deprecated in Java
+
+> Task :react-native-screens:compileDebugKotlin
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/CustomToolbar.kt:19:53 'FrameCallback' is deprecated. Use Choreographer.FrameCallback instead
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/CustomToolbar.kt:20:38 'FrameCallback' is deprecated. Use Choreographer.FrameCallback instead
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/RNScreensPackage.kt:64:17 'constructor ReactModuleInfo(String, String, Boolean, Boolean, Boolean, Boolean, Boolean)' is deprecated. use ReactModuleInfo(String, String, boolean, boolean, boolean, boolean)]
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/Screen.kt:45:77 Unchecked cast: CoordinatorLayout.Behavior<(raw) View!>? to BottomSheetBehavior<Screen>
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenContainer.kt:33:53 'FrameCallback' is deprecated. Use Choreographer.FrameCallback instead
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenContainer.kt:34:38 'FrameCallback' is deprecated. Use Choreographer.FrameCallback instead
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenFooter.kt:252:9 Parameter 'changed' is never used
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenFooter.kt:253:9 Parameter 'left' is never used
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenFooter.kt:254:9 Parameter 'top' is never used
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenFooter.kt:255:9 Parameter 'right' is never used
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenFooter.kt:256:9 Parameter 'bottom' is never used
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackFragment.kt:257:31 'setter for targetElevation: Float' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackFragment.kt:260:13 'setHasOptionsMenu(Boolean): Unit' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackFragment.kt:496:22 'onPrepareOptionsMenu(Menu): Unit' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackFragment.kt:504:22 'onCreateOptionsMenu(Menu, MenuInflater): Unit' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfig.kt:100:38 'getter for systemWindowInsetTop: Int' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfigViewManager.kt:7:34 'MapBuilder' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfigViewManager.kt:209:9 'MapBuilder' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfigViewManager.kt:211:13 'MapBuilder' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfigViewManager.kt:213:13 'MapBuilder' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:7:34 'MapBuilder' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:375:48 'MapBuilder' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:376:49 'MapBuilder' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:377:45 'MapBuilder' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:378:52 'MapBuilder' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:379:48 'MapBuilder' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:380:51 'MapBuilder' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:381:56 'MapBuilder' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:382:57 'MapBuilder' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:383:51 'MapBuilder' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:55:42 'replaceSystemWindowInsets(Int, Int, Int, Int): WindowInsetsCompat' is deprecated. Deprecated in Java  
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:56:39 'getter for systemWindowInsetLeft: Int' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:58:39 'getter for systemWindowInsetRight: Int' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:59:39 'getter for systemWindowInsetBottom: Int' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:98:53 'getter for statusBarColor: Int' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:109:48 'getter for statusBarColor: Int' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:112:32 'setter for statusBarColor: Int' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:208:72 'getter for navigationBarColor: Int' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:214:16 'setter for navigationBarColor: Int' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt:5:34 'MapBuilder' is deprecated. Deprecated in Java
+w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt:138:66 Elvis operator (?:) always returns the left operand of non-nullable type Boolean
 w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt:142:9 'MapBuilder' is deprecated. Deprecated in Java
 w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt:144:13 'MapBuilder' is deprecated. Deprecated in Java
 w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt:146:13 'MapBuilder' is deprecated. Deprecated in Java
@@ -10,341 +189,14 @@ w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/and
 w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/bottomsheet/BottomSheetDialogRootView.kt:7:34 'ReactFeatureFlags' is deprecated. Deprecated in Java
 w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/bottomsheet/BottomSheetDialogRootView.kt:25:13 'ReactFeatureFlags' is deprecated. Deprecated in Java
 
-> Task :react-native-gesture-handler:configureCMakeRelWithDebInfo[arm64-v8a]
-C/C++: CMake Error at CMakeLists.txt:17 (add_library):
-C/C++:   Target "gesturehandler" links to target "ReactAndroid::react_render_core"
-C/C++:   but the target was not found.  Perhaps a find_package() call is missing for
-C/C++:   an IMPORTED target, or an ALIAS target is missing?
-C/C++: CMake Error at CMakeLists.txt:17 (add_library):
-C/C++:   Target "gesturehandler" links to target
-C/C++:   "ReactAndroid::react_render_uimanager" but the target was not found.
-C/C++:   Perhaps a find_package() call is missing for an IMPORTED target, or an
-C/C++:   ALIAS target is missing?
-C/C++: CMake Error at CMakeLists.txt:17 (add_library):
-C/C++:   Target "gesturehandler" links to target
-C/C++:   "ReactAndroid::react_render_graphics" but the target was not found.
-C/C++:   Perhaps a find_package() call is missing for an IMPORTED target, or an
-C/C++:   ALIAS target is missing?
-C/C++: CMake Error at CMakeLists.txt:17 (add_library):
-C/C++:   Target "gesturehandler" links to target
-C/C++:   "ReactAndroid::react_nativemodule_core" but the target was not found.
-C/C++:   Perhaps a find_package() call is missing for an IMPORTED target, or an
-C/C++:   ALIAS target is missing?
-C/C++: CMake Warning:
-C/C++:   Manually-specified variables were not used by the project:
-C/C++:     APP_BUILD_DIR
-C/C++: CMake Generate step failed.  Build files cannot be regenerated correctly.
-
-> Task :react-native-gesture-handler:configureCMakeRelWithDebInfo[arm64-v8a] FAILED
-
 [Incubating] Problems report is available at: file:///D:/appy/MeetKatsNew/MeetKatsnew/android/build/reports/problems/problems-report.html
 
 FAILURE: Build failed with an exception.
 
 * What went wrong:
-Execution failed for task ':react-native-gesture-handler:configureCMakeRelWithDebInfo[arm64-v8a]'.
-> [CXX1429] error when building with cmake using D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\src\main\jni\CMakeLists.txt: -- The C compiler identification is Clang 18.0.2
-  -- The CXX compiler identification is Clang 18.0.2
-  -- Detecting C compiler ABI info
-  -- Detecting C compiler ABI info - done
-  -- Check for working C compiler: C:/Users/adity/AppData/Local/Android/Sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe - skipped
-  -- Detecting C compile features
-  -- Detecting C compile features - done
-  -- Detecting CXX compiler ABI info
-  -- Detecting CXX compiler ABI info - done
-  -- Check for working CXX compiler: C:/Users/adity/AppData/Local/Android/Sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe - skipped
-  -- Detecting CXX compile features
-  -- Detecting CXX compile features - done
-  -- Configuring done
-  -- Generating done
-
-  C++ build system [configure] failed while executing:
-      @echo off
-      "C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\cmake.exe" ^
-        "-HD:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\src\\main\\jni" ^
-        "-DCMAKE_SYSTEM_NAME=Android" ^
-        "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
-        "-DCMAKE_SYSTEM_VERSION=24" ^
-        "-DANDROID_PLATFORM=android-24" ^
-        "-DANDROID_ABI=arm64-v8a" ^
-        "-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a" ^
-        "-DANDROID_NDK=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006" ^
-        "-DCMAKE_ANDROID_NDK=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006" ^
-        "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006\\build\\cmake\\android.toolchain.cmake" ^
-        "-DCMAKE_MAKE_PROGRAM=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
-        "-DCMAKE_CXX_FLAGS=-O2 -frtti -fexceptions -Wall -Werror -std=c++17 -DANDROID" ^
-        "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\build\\intermediates\\cxx\\RelWithDebInfo\\6v4f3t4q\\obj\\arm64-v8a" ^
-        "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\build\\intermediates\\cxx\\RelWithDebInfo\\6v4f3t4q\\obj\\arm64-v8a" ^
-        "-DCMAKE_BUILD_TYPE=RelWithDebInfo" ^
-        "-DCMAKE_FIND_ROOT_PATH=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\.cxx\\RelWithDebInfo\\6v4f3t4q\\prefab\\arm64-v8a\\prefab" ^
-        "-BD:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\.cxx\\RelWithDebInfo\\6v4f3t4q\\arm64-v8a" ^
-        -GNinja ^
-        "-DAPP_BUILD_DIR=D:\\appy\\MeetKatsNew\\MeetKatsnew\\android\\app\\build" ^
-        "-DREACT_NATIVE_DIR=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native" ^
-        "-DREACT_NATIVE_MINOR_VERSION=76" ^
-        "-DANDROID_STL=c++_shared"
-    from D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android
-  CMake Error at CMakeLists.txt:17 (add_library):
-    Target "gesturehandler" links to target "ReactAndroid::react_render_core"
-    but the target was not found.  Perhaps a find_package() call is missing for
-    an IMPORTED target, or an ALIAS target is missing?
-
-
-  CMake Error at CMakeLists.txt:17 (add_library):
-    Target "gesturehandler" links to target
-    "ReactAndroid::react_render_uimanager" but the target was not found.
-    Perhaps a find_package() call is missing for an IMPORTED target, or an
-    ALIAS target is missing?
-
-
-  CMake Error at CMakeLists.txt:17 (add_library):
-    Target "gesturehandler" links to target
-    "ReactAndroid::react_render_graphics" but the target was not found.
-    Perhaps a find_package() call is missing for an IMPORTED target, or an
-    ALIAS target is missing?
-
-
-  CMake Error at CMakeLists.txt:17 (add_library):
-    Target "gesturehandler" links to target
-    "ReactAndroid::react_nativemodule_core" but the target was not found.
-    Perhaps a find_package() call is missing for an IMPORTED target, or an
-    ALIAS target is missing?
-
-
-  CMake Warning:
-    Manually-specified variables were not used by the project:
-
-      APP_BUILD_DIR
-
-
-  CMake Generate step failed.  Build files cannot be regenerated correctly. : com.android.ide.common.process.ProcessException: -- The C compiler identification is Clang 18.0.2
-  -- The CXX compiler identification is Clang 18.0.2
-  -- Detecting C compiler ABI info
-  -- Detecting C compiler ABI info - done
-  -- Check for working C compiler: C:/Users/adity/AppData/Local/Android/Sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe - skipped
-  -- Detecting C compile features
-  -- Detecting C compile features - done
-  -- Detecting CXX compiler ABI info
-  -- Detecting CXX compiler ABI info - done
-  -- Check for working CXX compiler: C:/Users/adity/AppData/Local/Android/Sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe - skipped
-  -- Detecting CXX compile features
-  -- Detecting CXX compile features - done
-  -- Configuring done
-  -- Generating done
-
-  C++ build system [configure] failed while executing:
-      @echo off
-      "C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\cmake.exe" ^
-        "-HD:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\src\\main\\jni" ^
-        "-DCMAKE_SYSTEM_NAME=Android" ^
-        "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
-        "-DCMAKE_SYSTEM_VERSION=24" ^
-        "-DANDROID_PLATFORM=android-24" ^
-        "-DANDROID_ABI=arm64-v8a" ^
-        "-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a" ^
-        "-DANDROID_NDK=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006" ^
-        "-DCMAKE_ANDROID_NDK=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006" ^
-        "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006\\build\\cmake\\android.toolchain.cmake" ^
-        "-DCMAKE_MAKE_PROGRAM=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
-        "-DCMAKE_CXX_FLAGS=-O2 -frtti -fexceptions -Wall -Werror -std=c++17 -DANDROID" ^
-        "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\build\\intermediates\\cxx\\RelWithDebInfo\\6v4f3t4q\\obj\\arm64-v8a" ^
-        "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\build\\intermediates\\cxx\\RelWithDebInfo\\6v4f3t4q\\obj\\arm64-v8a" ^
-        "-DCMAKE_BUILD_TYPE=RelWithDebInfo" ^
-        "-DCMAKE_FIND_ROOT_PATH=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\.cxx\\RelWithDebInfo\\6v4f3t4q\\prefab\\arm64-v8a\\prefab" ^
-        "-BD:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\.cxx\\RelWithDebInfo\\6v4f3t4q\\arm64-v8a" ^
-        -GNinja ^
-        "-DAPP_BUILD_DIR=D:\\appy\\MeetKatsNew\\MeetKatsnew\\android\\app\\build" ^
-        "-DREACT_NATIVE_DIR=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native" ^
-        "-DREACT_NATIVE_MINOR_VERSION=76" ^
-        "-DANDROID_STL=c++_shared"
-    from D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android
-  CMake Error at CMakeLists.txt:17 (add_library):
-    Target "gesturehandler" links to target "ReactAndroid::react_render_core"
-    but the target was not found.  Perhaps a find_package() call is missing for
-    an IMPORTED target, or an ALIAS target is missing?
-
-
-  CMake Error at CMakeLists.txt:17 (add_library):
-    Target "gesturehandler" links to target
-    "ReactAndroid::react_render_uimanager" but the target was not found.
-    Perhaps a find_package() call is missing for an IMPORTED target, or an
-    ALIAS target is missing?
-
-
-  CMake Error at CMakeLists.txt:17 (add_library):
-    Target "gesturehandler" links to target
-    "ReactAndroid::react_render_graphics" but the target was not found.
-    Perhaps a find_package() call is missing for an IMPORTED target, or an
-    ALIAS target is missing?
-
-
-  CMake Error at CMakeLists.txt:17 (add_library):
-    Target "gesturehandler" links to target
-    "ReactAndroid::react_nativemodule_core" but the target was not found.
-    Perhaps a find_package() call is missing for an IMPORTED target, or an
-    ALIAS target is missing?
-
-
-  CMake Warning:
-    Manually-specified variables were not used by the project:
-
-      APP_BUILD_DIR
-
-
-  CMake Generate step failed.  Build files cannot be regenerated correctly.
-        at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt.execute(ExecuteProcess.kt:288)
-        at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt$executeProcess$1.invoke(ExecuteProcess.kt:108)       
-        at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt$executeProcess$1.invoke(ExecuteProcess.kt:106)       
-        at com.android.build.gradle.internal.cxx.timing.TimingEnvironmentKt.time(TimingEnvironment.kt:32)
-        at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt.executeProcess(ExecuteProcess.kt:106)
-        at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt.executeProcess$default(ExecuteProcess.kt:85)
-        at com.android.build.gradle.tasks.CmakeQueryMetadataGenerator.executeProcess(CmakeFileApiMetadataGenerator.kt:59)      
-        at com.android.build.gradle.tasks.ExternalNativeJsonGenerator$configureOneAbi$1$1$3.invoke(ExternalNativeJsonGenerator.kt:247)
-        at com.android.build.gradle.tasks.ExternalNativeJsonGenerator$configureOneAbi$1$1$3.invoke(ExternalNativeJsonGenerator.kt:247)
-        at com.android.build.gradle.internal.cxx.timing.TimingEnvironmentKt.time(TimingEnvironment.kt:32)
-        at com.android.build.gradle.tasks.ExternalNativeJsonGenerator.configureOneAbi(ExternalNativeJsonGenerator.kt:247)      
-        at com.android.build.gradle.tasks.ExternalNativeJsonGenerator.configure(ExternalNativeJsonGenerator.kt:113)
-        at com.android.build.gradle.tasks.ExternalNativeBuildJsonTask.doTaskAction(ExternalNativeBuildJsonTask.kt:89)
-        at com.android.build.gradle.internal.tasks.UnsafeOutputsTask$taskAction$$inlined$recordTaskAction$1.invoke(BaseTask.kt:66)
-        at com.android.build.gradle.internal.tasks.Blocks.recordSpan(Blocks.java:51)
-        at com.android.build.gradle.internal.tasks.UnsafeOutputsTask.taskAction(UnsafeOutputsTask.kt:81)
-        at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-        at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-        at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-        at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-        at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:125)
-        at org.gradle.api.internal.project.taskfactory.StandardTaskAction.doExecute(StandardTaskAction.java:58)
-        at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:51)
-        at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:29)
-        at org.gradle.api.internal.tasks.execution.TaskExecution$3.run(TaskExecution.java:244)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:30)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:27)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:48)
-        at org.gradle.api.internal.tasks.execution.TaskExecution.executeAction(TaskExecution.java:229)
-        at org.gradle.api.internal.tasks.execution.TaskExecution.executeActions(TaskExecution.java:212)
-        at org.gradle.api.internal.tasks.execution.TaskExecution.executeWithPreviousOutputFiles(TaskExecution.java:195)        
-        at org.gradle.api.internal.tasks.execution.TaskExecution.execute(TaskExecution.java:162)
-        at org.gradle.internal.execution.steps.ExecuteStep.executeInternal(ExecuteStep.java:105)
-        at org.gradle.internal.execution.steps.ExecuteStep.access$000(ExecuteStep.java:44)
-        at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:59)
-        at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:56)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
-        at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:56)
-        at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:44)
-        at org.gradle.internal.execution.steps.CancelExecutionStep.execute(CancelExecutionStep.java:42)
-        at org.gradle.internal.execution.steps.TimeoutStep.executeWithoutTimeout(TimeoutStep.java:75)
-        at org.gradle.internal.execution.steps.TimeoutStep.execute(TimeoutStep.java:55)
-        at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:50)
-        at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:28)
-        at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:67)
-        at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:37)
-        at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:61)      
-        at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:26)      
-        at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:69)
-        at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:46)
-        at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:40)
-        at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:29)
-        at org.gradle.internal.execution.steps.BuildCacheStep.executeWithoutCache(BuildCacheStep.java:189)
-        at org.gradle.internal.execution.steps.BuildCacheStep.lambda$execute$1(BuildCacheStep.java:75)
-        at org.gradle.internal.Either$Right.fold(Either.java:175)
-        at org.gradle.internal.execution.caching.CachingState.fold(CachingState.java:62)
-        at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:73)
-        at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:48)
-        at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:46)
-        at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:35)
-        at org.gradle.internal.execution.steps.SkipUpToDateStep.executeBecause(SkipUpToDateStep.java:75)
-        at org.gradle.internal.execution.steps.SkipUpToDateStep.lambda$execute$2(SkipUpToDateStep.java:53)
-        at java.base/java.util.Optional.orElseGet(Optional.java:364)
-        at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:53)
-        at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:35)
-        at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:37)
-        at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:27)
-        at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:49)
-        at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:27)
-        at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:71)
-        at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:39)
-        at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:65)
-        at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:36)
-        at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:107)
-        at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:56)
-        at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:64)
-        at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:43)
-        at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.executeWithNonEmptySources(AbstractSkipEmptyWorkStep.java:125)
-        at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:56)
-        at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:36)
-        at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsStartedStep.execute(MarkSnapshottingInputsStartedStep.java:38)
-        at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:36)  
-        at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:23)  
-        at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:75)
-        at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:41)
-        at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.lambda$execute$0(AssignMutableWorkspaceStep.java:35) 
-        at org.gradle.api.internal.tasks.execution.TaskExecution$4.withWorkspace(TaskExecution.java:289)
-        at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:31)
-        at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:22)
-        at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:40)
-        at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:23)
-        at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.lambda$execute$2(ExecuteWorkBuildOperationFiringStep.java:67)
-        at java.base/java.util.Optional.orElseGet(Optional.java:364)
-        at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:67)
-        at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:39)
-        at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:46)
-        at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:34)
-        at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:48)
-        at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:35)
-        at org.gradle.internal.execution.impl.DefaultExecutionEngine$1.execute(DefaultExecutionEngine.java:61)
-        at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:127)
-        at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:116)     
-        at org.gradle.api.internal.tasks.execution.ProblemsTaskPathTrackingTaskExecuter.execute(ProblemsTaskPathTrackingTaskExecuter.java:40)
-        at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
-        at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
-        at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
-        at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:74)
-        at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)      
-        at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)      
-        at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
-        at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
-        at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
-        at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:42)
-        at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:331)
-        at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:318)
-        at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.lambda$execute$0(DefaultTaskExecutionGraph.java:314)
-        at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
-        at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:314)
-        at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:303)
-        at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:459)
-        at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
-        at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
-        at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
-        at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
-        at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
-        at java.base/java.lang.Thread.run(Thread.java:842)
-  Caused by: com.android.ide.common.process.ProcessException: Error while executing process C:\Users\adity\AppData\Local\Android\Sdk\cmake\3.22.1\bin\cmake.exe with arguments {-HD:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\src\main\jni -DCMAKE_SYSTEM_NAME=Android -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_SYSTEM_VERSION=24 -DANDROID_PLATFORM=android-24 -DANDROID_ABI=arm64-v8a -DCMAKE_ANDROID_ARCH_ABI=arm64-v8a -DANDROID_NDK=C:\Users\adity\AppData\Local\Android\Sdk\ndk\27.1.12297006 -DCMAKE_ANDROID_NDK=C:\Users\adity\AppData\Local\Android\Sdk\ndk\27.1.12297006 -DCMAKE_TOOLCHAIN_FILE=C:\Users\adity\AppData\Local\Android\Sdk\ndk\27.1.12297006\build\cmake\android.toolchain.cmake -DCMAKE_MAKE_PROGRAM=C:\Users\adity\AppData\Local\Android\Sdk\cmake\3.22.1\bin\ninja.exe -DCMAKE_CXX_FLAGS=-O2 -frtti -fexceptions -Wall -Werror -std=c++17 -DANDROID -DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\build\intermediates\cxx\RelWithDebInfo\6v4f3t4q\obj\arm64-v8a -DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\build\intermediates\cxx\RelWithDebInfo\6v4f3t4q\obj\arm64-v8a -DCMAKE_BUILD_TYPE=RelWithDebInfo -DCMAKE_FIND_ROOT_PATH=D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\.cxx\RelWithDebInfo\6v4f3t4q\prefab\arm64-v8a\prefab -BD:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\.cxx\RelWithDebInfo\6v4f3t4q\arm64-v8a -GNinja -DAPP_BUILD_DIR=D:\appy\MeetKatsNew\MeetKatsnew\android\app\build -DREACT_NATIVE_DIR=D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native -DREACT_NATIVE_MINOR_VERSION=76 -DANDROID_STL=c++_shared}
-        at com.android.build.gradle.internal.process.GradleProcessResult.buildProcessException(GradleProcessResult.java:73)    
-        at com.android.build.gradle.internal.process.GradleProcessResult.assertNormalExitValue(GradleProcessResult.java:48)    
-        at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt.execute(ExecuteProcess.kt:277)
-        ... 142 more
-  Caused by: org.gradle.process.internal.ExecException: Process 'command 'C:\Users\adity\AppData\Local\Android\Sdk\cmake\3.22.1\bin\cmake.exe'' finished with non-zero exit value 1
-        at org.gradle.process.internal.DefaultExecHandle$ExecResultImpl.assertNormalExitValue(DefaultExecHandle.java:442)      
-        at com.android.build.gradle.internal.process.GradleProcessResult.assertNormalExitValue(GradleProcessResult.java:46)    
-        ... 143 more
-
+Execution failed for task ':react-native-gesture-handler:compileDebugKotlin'.
+> A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction
+   > Compilation error. See log for more details
 
 * Try:
 > Run with --info or --debug option to get more log output.
@@ -352,7 +204,7 @@ Execution failed for task ':react-native-gesture-handler:configureCMakeRelWithDe
 > Get more help at https://help.gradle.org.
 
 * Exception is:
-org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':react-native-gesture-handler:configureCMakeRelWithDebInfo[arm64-v8a]'.
+org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':react-native-gesture-handler:compileDebugKotlin'.     
         at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.lambda$executeIfValid$1(ExecuteActionsTaskExecuter.java:130)
         at org.gradle.internal.Try$Failure.ifSuccessfulOrElse(Try.java:293)
         at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:128)
@@ -385,326 +237,18 @@ org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':react-n
         at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
         at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
         at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
-Caused by: com.android.builder.errors.EvalIssueException: [CXX1429] error when building with cmake using D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\src\main\jni\CMakeLists.txt: -- The C compiler identification is Clang 18.0.2
--- The CXX compiler identification is Clang 18.0.2
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Check for working C compiler: C:/Users/adity/AppData/Local/Android/Sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe - skipped
--- Detecting C compile features
--- Detecting C compile features - done
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Check for working CXX compiler: C:/Users/adity/AppData/Local/Android/Sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe - skipped
--- Detecting CXX compile features
--- Detecting CXX compile features - done
--- Configuring done
--- Generating done
-
-C++ build system [configure] failed while executing:
-    @echo off
-    "C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\cmake.exe" ^
-      "-HD:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\src\\main\\jni" ^
-      "-DCMAKE_SYSTEM_NAME=Android" ^
-      "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
-      "-DCMAKE_SYSTEM_VERSION=24" ^
-      "-DANDROID_PLATFORM=android-24" ^
-      "-DANDROID_ABI=arm64-v8a" ^
-      "-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a" ^
-      "-DANDROID_NDK=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006" ^
-      "-DCMAKE_ANDROID_NDK=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006" ^
-      "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006\\build\\cmake\\android.toolchain.cmake" ^
-      "-DCMAKE_MAKE_PROGRAM=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
-      "-DCMAKE_CXX_FLAGS=-O2 -frtti -fexceptions -Wall -Werror -std=c++17 -DANDROID" ^
-      "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\build\\intermediates\\cxx\\RelWithDebInfo\\6v4f3t4q\\obj\\arm64-v8a" ^
-      "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\build\\intermediates\\cxx\\RelWithDebInfo\\6v4f3t4q\\obj\\arm64-v8a" ^
-      "-DCMAKE_BUILD_TYPE=RelWithDebInfo" ^
-      "-DCMAKE_FIND_ROOT_PATH=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\.cxx\\RelWithDebInfo\\6v4f3t4q\\prefab\\arm64-v8a\\prefab" ^
-      "-BD:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\.cxx\\RelWithDebInfo\\6v4f3t4q\\arm64-v8a" ^
-      -GNinja ^
-      "-DAPP_BUILD_DIR=D:\\appy\\MeetKatsNew\\MeetKatsnew\\android\\app\\build" ^
-      "-DREACT_NATIVE_DIR=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native" ^
-      "-DREACT_NATIVE_MINOR_VERSION=76" ^
-      "-DANDROID_STL=c++_shared"
-  from D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android
-CMake Error at CMakeLists.txt:17 (add_library):
-  Target "gesturehandler" links to target "ReactAndroid::react_render_core"
-  but the target was not found.  Perhaps a find_package() call is missing for
-  an IMPORTED target, or an ALIAS target is missing?
-
-
-CMake Error at CMakeLists.txt:17 (add_library):
-  Target "gesturehandler" links to target
-  "ReactAndroid::react_render_uimanager" but the target was not found.
-  Perhaps a find_package() call is missing for an IMPORTED target, or an
-  ALIAS target is missing?
-
-
-CMake Error at CMakeLists.txt:17 (add_library):
-  Target "gesturehandler" links to target
-  "ReactAndroid::react_render_graphics" but the target was not found.
-  Perhaps a find_package() call is missing for an IMPORTED target, or an
-  ALIAS target is missing?
-
-
-CMake Error at CMakeLists.txt:17 (add_library):
-  Target "gesturehandler" links to target
-  "ReactAndroid::react_nativemodule_core" but the target was not found.
-  Perhaps a find_package() call is missing for an IMPORTED target, or an
-  ALIAS target is missing?
-
-
-CMake Warning:
-  Manually-specified variables were not used by the project:
-
-    APP_BUILD_DIR
-
-
-CMake Generate step failed.  Build files cannot be regenerated correctly. : com.android.ide.common.process.ProcessException: -- The C compiler identification is Clang 18.0.2
--- The CXX compiler identification is Clang 18.0.2
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Check for working C compiler: C:/Users/adity/AppData/Local/Android/Sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe - skipped
--- Detecting C compile features
--- Detecting C compile features - done
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Check for working CXX compiler: C:/Users/adity/AppData/Local/Android/Sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe - skipped
--- Detecting CXX compile features
--- Detecting CXX compile features - done
--- Configuring done
--- Generating done
-
-C++ build system [configure] failed while executing:
-    @echo off
-    "C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\cmake.exe" ^
-      "-HD:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\src\\main\\jni" ^
-      "-DCMAKE_SYSTEM_NAME=Android" ^
-      "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
-      "-DCMAKE_SYSTEM_VERSION=24" ^
-      "-DANDROID_PLATFORM=android-24" ^
-      "-DANDROID_ABI=arm64-v8a" ^
-      "-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a" ^
-      "-DANDROID_NDK=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006" ^
-      "-DCMAKE_ANDROID_NDK=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006" ^
-      "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006\\build\\cmake\\android.toolchain.cmake" ^
-      "-DCMAKE_MAKE_PROGRAM=C:\\Users\\adity\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
-      "-DCMAKE_CXX_FLAGS=-O2 -frtti -fexceptions -Wall -Werror -std=c++17 -DANDROID" ^
-      "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\build\\intermediates\\cxx\\RelWithDebInfo\\6v4f3t4q\\obj\\arm64-v8a" ^
-      "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\build\\intermediates\\cxx\\RelWithDebInfo\\6v4f3t4q\\obj\\arm64-v8a" ^
-      "-DCMAKE_BUILD_TYPE=RelWithDebInfo" ^
-      "-DCMAKE_FIND_ROOT_PATH=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\.cxx\\RelWithDebInfo\\6v4f3t4q\\prefab\\arm64-v8a\\prefab" ^
-      "-BD:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native-gesture-handler\\android\\.cxx\\RelWithDebInfo\\6v4f3t4q\\arm64-v8a" ^
-      -GNinja ^
-      "-DAPP_BUILD_DIR=D:\\appy\\MeetKatsNew\\MeetKatsnew\\android\\app\\build" ^
-      "-DREACT_NATIVE_DIR=D:\\appy\\MeetKatsNew\\MeetKatsnew\\node_modules\\react-native" ^
-      "-DREACT_NATIVE_MINOR_VERSION=76" ^
-      "-DANDROID_STL=c++_shared"
-  from D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android
-CMake Error at CMakeLists.txt:17 (add_library):
-  Target "gesturehandler" links to target "ReactAndroid::react_render_core"
-  but the target was not found.  Perhaps a find_package() call is missing for
-  an IMPORTED target, or an ALIAS target is missing?
-
-
-CMake Error at CMakeLists.txt:17 (add_library):
-  Target "gesturehandler" links to target
-  "ReactAndroid::react_render_uimanager" but the target was not found.
-  Perhaps a find_package() call is missing for an IMPORTED target, or an
-  ALIAS target is missing?
-
-
-CMake Error at CMakeLists.txt:17 (add_library):
-  Target "gesturehandler" links to target
-  "ReactAndroid::react_render_graphics" but the target was not found.
-  Perhaps a find_package() call is missing for an IMPORTED target, or an
-  ALIAS target is missing?
-
-
-CMake Error at CMakeLists.txt:17 (add_library):
-  Target "gesturehandler" links to target
-  "ReactAndroid::react_nativemodule_core" but the target was not found.
-  Perhaps a find_package() call is missing for an IMPORTED target, or an
-  ALIAS target is missing?
-
-
-CMake Warning:
-  Manually-specified variables were not used by the project:
-
-    APP_BUILD_DIR
-
-
-CMake Generate step failed.  Build files cannot be regenerated correctly.
-        at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt.execute(ExecuteProcess.kt:288)
-        at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt$executeProcess$1.invoke(ExecuteProcess.kt:108)       
-        at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt$executeProcess$1.invoke(ExecuteProcess.kt:106)       
-        at com.android.build.gradle.internal.cxx.timing.TimingEnvironmentKt.time(TimingEnvironment.kt:32)
-        at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt.executeProcess(ExecuteProcess.kt:106)
-        at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt.executeProcess$default(ExecuteProcess.kt:85)
-        at com.android.build.gradle.tasks.CmakeQueryMetadataGenerator.executeProcess(CmakeFileApiMetadataGenerator.kt:59)      
-        at com.android.build.gradle.tasks.ExternalNativeJsonGenerator$configureOneAbi$1$1$3.invoke(ExternalNativeJsonGenerator.kt:247)
-        at com.android.build.gradle.tasks.ExternalNativeJsonGenerator$configureOneAbi$1$1$3.invoke(ExternalNativeJsonGenerator.kt:247)
-        at com.android.build.gradle.internal.cxx.timing.TimingEnvironmentKt.time(TimingEnvironment.kt:32)
-        at com.android.build.gradle.tasks.ExternalNativeJsonGenerator.configureOneAbi(ExternalNativeJsonGenerator.kt:247)      
-        at com.android.build.gradle.tasks.ExternalNativeJsonGenerator.configure(ExternalNativeJsonGenerator.kt:113)
-        at com.android.build.gradle.tasks.ExternalNativeBuildJsonTask.doTaskAction(ExternalNativeBuildJsonTask.kt:89)
-        at com.android.build.gradle.internal.tasks.UnsafeOutputsTask$taskAction$$inlined$recordTaskAction$1.invoke(BaseTask.kt:66)
-        at com.android.build.gradle.internal.tasks.Blocks.recordSpan(Blocks.java:51)
-        at com.android.build.gradle.internal.tasks.UnsafeOutputsTask.taskAction(UnsafeOutputsTask.kt:81)
-        at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-        at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-        at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-        at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-        at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:125)
-        at org.gradle.api.internal.project.taskfactory.StandardTaskAction.doExecute(StandardTaskAction.java:58)
-        at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:51)
-        at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:29)
-        at org.gradle.api.internal.tasks.execution.TaskExecution$3.run(TaskExecution.java:244)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:30)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:27)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:48)
-        at org.gradle.api.internal.tasks.execution.TaskExecution.executeAction(TaskExecution.java:229)
-        at org.gradle.api.internal.tasks.execution.TaskExecution.executeActions(TaskExecution.java:212)
-        at org.gradle.api.internal.tasks.execution.TaskExecution.executeWithPreviousOutputFiles(TaskExecution.java:195)        
-        at org.gradle.api.internal.tasks.execution.TaskExecution.execute(TaskExecution.java:162)
-        at org.gradle.internal.execution.steps.ExecuteStep.executeInternal(ExecuteStep.java:105)
-        at org.gradle.internal.execution.steps.ExecuteStep.access$000(ExecuteStep.java:44)
-        at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:59)
-        at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:56)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
-        at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:56)
-        at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:44)
-        at org.gradle.internal.execution.steps.CancelExecutionStep.execute(CancelExecutionStep.java:42)
-        at org.gradle.internal.execution.steps.TimeoutStep.executeWithoutTimeout(TimeoutStep.java:75)
-        at org.gradle.internal.execution.steps.TimeoutStep.execute(TimeoutStep.java:55)
-        at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:50)
-        at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:28)
-        at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:67)
-        at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:37)
-        at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:61)      
-        at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:26)      
-        at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:69)
-        at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:46)
-        at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:40)
-        at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:29)
-        at org.gradle.internal.execution.steps.BuildCacheStep.executeWithoutCache(BuildCacheStep.java:189)
-        at org.gradle.internal.execution.steps.BuildCacheStep.lambda$execute$1(BuildCacheStep.java:75)
-        at org.gradle.internal.Either$Right.fold(Either.java:175)
-        at org.gradle.internal.execution.caching.CachingState.fold(CachingState.java:62)
-        at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:73)
-        at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:48)
-        at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:46)
-        at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:35)
-        at org.gradle.internal.execution.steps.SkipUpToDateStep.executeBecause(SkipUpToDateStep.java:75)
-        at org.gradle.internal.execution.steps.SkipUpToDateStep.lambda$execute$2(SkipUpToDateStep.java:53)
-        at java.base/java.util.Optional.orElseGet(Optional.java:364)
-        at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:53)
-        at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:35)
-        at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:37)
-        at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:27)
-        at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:49)
-        at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:27)
-        at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:71)
-        at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:39)
-        at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:65)
-        at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:36)
-        at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:107)
-        at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:56)
-        at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:64)
-        at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:43)
-        at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.executeWithNonEmptySources(AbstractSkipEmptyWorkStep.java:125)
-        at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:56)
-        at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:36)
-        at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsStartedStep.execute(MarkSnapshottingInputsStartedStep.java:38)
-        at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:36)  
-        at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:23)  
-        at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:75)
-        at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:41)
-        at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.lambda$execute$0(AssignMutableWorkspaceStep.java:35) 
-        at org.gradle.api.internal.tasks.execution.TaskExecution$4.withWorkspace(TaskExecution.java:289)
-        at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:31)
-        at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:22)
-        at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:40)
-        at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:23)
-        at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.lambda$execute$2(ExecuteWorkBuildOperationFiringStep.java:67)
-        at java.base/java.util.Optional.orElseGet(Optional.java:364)
-        at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:67)
-        at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:39)
-        at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:46)
-        at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:34)
-        at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:48)
-        at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:35)
-        at org.gradle.internal.execution.impl.DefaultExecutionEngine$1.execute(DefaultExecutionEngine.java:61)
-        at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:127)
-        at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:116)     
-        at org.gradle.api.internal.tasks.execution.ProblemsTaskPathTrackingTaskExecuter.execute(ProblemsTaskPathTrackingTaskExecuter.java:40)
-        at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
-        at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
-        at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
-        at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:74)
-        at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)      
-        at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)      
-        at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
-        at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
-        at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
-        at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
-        at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:42)
-        at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:331)
-        at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:318)
-        at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.lambda$execute$0(DefaultTaskExecutionGraph.java:314)
-        at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
-        at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:314)
-        at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:303)
-        at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:459)
-        at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
-        at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
-        at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
-        at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
-        at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
-        at java.base/java.lang.Thread.run(Thread.java:842)
-Caused by: com.android.ide.common.process.ProcessException: Error while executing process C:\Users\adity\AppData\Local\Android\Sdk\cmake\3.22.1\bin\cmake.exe with arguments {-HD:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\src\main\jni -DCMAKE_SYSTEM_NAME=Android -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_SYSTEM_VERSION=24 -DANDROID_PLATFORM=android-24 -DANDROID_ABI=arm64-v8a -DCMAKE_ANDROID_ARCH_ABI=arm64-v8a -DANDROID_NDK=C:\Users\adity\AppData\Local\Android\Sdk\ndk\27.1.12297006 -DCMAKE_ANDROID_NDK=C:\Users\adity\AppData\Local\Android\Sdk\ndk\27.1.12297006 -DCMAKE_TOOLCHAIN_FILE=C:\Users\adity\AppData\Local\Android\Sdk\ndk\27.1.12297006\build\cmake\android.toolchain.cmake -DCMAKE_MAKE_PROGRAM=C:\Users\adity\AppData\Local\Android\Sdk\cmake\3.22.1\bin\ninja.exe -DCMAKE_CXX_FLAGS=-O2 -frtti -fexceptions -Wall -Werror -std=c++17 -DANDROID -DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\build\intermediates\cxx\RelWithDebInfo\6v4f3t4q\obj\arm64-v8a -DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\build\intermediates\cxx\RelWithDebInfo\6v4f3t4q\obj\arm64-v8a -DCMAKE_BUILD_TYPE=RelWithDebInfo -DCMAKE_FIND_ROOT_PATH=D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\.cxx\RelWithDebInfo\6v4f3t4q\prefab\arm64-v8a\prefab -BD:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\.cxx\RelWithDebInfo\6v4f3t4q\arm64-v8a -GNinja -DAPP_BUILD_DIR=D:\appy\MeetKatsNew\MeetKatsnew\android\app\build -DREACT_NATIVE_DIR=D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native -DREACT_NATIVE_MINOR_VERSION=76 -DANDROID_STL=c++_shared}
-        at com.android.build.gradle.internal.process.GradleProcessResult.buildProcessException(GradleProcessResult.java:73)    
-        at com.android.build.gradle.internal.process.GradleProcessResult.assertNormalExitValue(GradleProcessResult.java:48)    
-        at com.android.build.gradle.internal.cxx.process.ExecuteProcessKt.execute(ExecuteProcess.kt:277)
-        ... 142 more
-Caused by: org.gradle.process.internal.ExecException: Process 'command 'C:\Users\adity\AppData\Local\Android\Sdk\cmake\3.22.1\bin\cmake.exe'' finished with non-zero exit value 1
-        at org.gradle.process.internal.DefaultExecHandle$ExecResultImpl.assertNormalExitValue(DefaultExecHandle.java:442)      
-        at com.android.build.gradle.internal.process.GradleProcessResult.assertNormalExitValue(GradleProcessResult.java:46)    
-        ... 143 more
-
-        at com.android.builder.errors.IssueReporter.reportError(IssueReporter.kt:118)
-        at com.android.builder.errors.IssueReporter.reportError$default(IssueReporter.kt:114)
-        at com.android.build.gradle.internal.cxx.logging.IssueReporterLoggingEnvironment.log(IssueReporterLoggingEnvironment.kt:113)
-        at com.android.build.gradle.internal.cxx.logging.ThreadLoggingEnvironment$Companion.reportFormattedErrorToCurrentLogger(LoggingEnvironment.kt:230)
-        at com.android.build.gradle.internal.cxx.logging.LoggingEnvironmentKt.errorln(LoggingEnvironment.kt:62)
-        at com.android.build.gradle.tasks.ExternalNativeJsonGenerator.configure(ExternalNativeJsonGenerator.kt:121)
-        at com.android.build.gradle.tasks.ExternalNativeBuildJsonTask.doTaskAction(ExternalNativeBuildJsonTask.kt:89)
-        at com.android.build.gradle.internal.tasks.UnsafeOutputsTask$taskAction$$inlined$recordTaskAction$1.invoke(BaseTask.kt:66)
-        at com.android.build.gradle.internal.tasks.Blocks.recordSpan(Blocks.java:51)
-        at com.android.build.gradle.internal.tasks.UnsafeOutputsTask.taskAction(UnsafeOutputsTask.kt:81)
-        at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-        at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-        at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-        at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:125)
-        at org.gradle.api.internal.project.taskfactory.StandardTaskAction.doExecute(StandardTaskAction.java:58)
-        at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:51)
-        at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:29)
-        at org.gradle.api.internal.tasks.execution.TaskExecution$3.run(TaskExecution.java:244)
+Caused by: org.gradle.workers.internal.DefaultWorkerExecutor$WorkExecutionException: A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction
+        at org.gradle.workers.internal.DefaultWorkerExecutor$WorkItemExecution.waitForCompletion(DefaultWorkerExecutor.java:287)
+        at org.gradle.internal.work.DefaultAsyncWorkTracker.lambda$waitForItemsAndGatherFailures$2(DefaultAsyncWorkTracker.java:130)
+        at org.gradle.internal.Factories$1.create(Factories.java:31)
+        at org.gradle.internal.work.DefaultWorkerLeaseService.withoutLocks(DefaultWorkerLeaseService.java:335)
+        at org.gradle.internal.work.DefaultWorkerLeaseService.withoutLocks(DefaultWorkerLeaseService.java:318)
+        at org.gradle.internal.work.DefaultWorkerLeaseService.withoutLock(DefaultWorkerLeaseService.java:323)
+        at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForItemsAndGatherFailures(DefaultAsyncWorkTracker.java:126)    
+        at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForItemsAndGatherFailures(DefaultAsyncWorkTracker.java:92)     
+        at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForAll(DefaultAsyncWorkTracker.java:78)
+        at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForCompletion(DefaultAsyncWorkTracker.java:66)
+        at org.gradle.api.internal.tasks.execution.TaskExecution$3.run(TaskExecution.java:252)
         at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:30)
         at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:27)
         at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
@@ -767,7 +311,7 @@ Caused by: org.gradle.process.internal.ExecException: Process 'command 'C:\Users
         at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:64)
         at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:43)
         at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.executeWithNonEmptySources(AbstractSkipEmptyWorkStep.java:125)
-        at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:56)
+        at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:61)
         at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:36)
         at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsStartedStep.execute(MarkSnapshottingInputsStartedStep.java:38)
         at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:36)  
@@ -818,6 +362,37 @@ Caused by: org.gradle.process.internal.ExecException: Process 'command 'C:\Users
         at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
         at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
         at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
+Caused by: org.jetbrains.kotlin.gradle.tasks.CompilationErrorException: Compilation error. See log for more details
+        at org.jetbrains.kotlin.gradle.tasks.TasksUtilsKt.throwExceptionIfCompilationFailed(tasksUtils.kt:20)
+        at org.jetbrains.kotlin.compilerRunner.GradleKotlinCompilerWork.run(GradleKotlinCompilerWork.kt:141)
+        at org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction.execute(GradleCompilerRunnerWithWorkers.kt:73)
+        at org.gradle.workers.internal.DefaultWorkerServer.execute(DefaultWorkerServer.java:63)
+        at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:66)
+        at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:62)
+        at org.gradle.internal.classloader.ClassLoaderUtils.executeInClassloader(ClassLoaderUtils.java:100)
+        at org.gradle.workers.internal.NoIsolationWorkerFactory$1.lambda$execute$0(NoIsolationWorkerFactory.java:62)
+        at org.gradle.workers.internal.AbstractWorker$1.call(AbstractWorker.java:44)
+        at org.gradle.workers.internal.AbstractWorker$1.call(AbstractWorker.java:41)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+        at org.gradle.workers.internal.AbstractWorker.executeWrappedInBuildOperation(AbstractWorker.java:41)
+        at org.gradle.workers.internal.NoIsolationWorkerFactory$1.execute(NoIsolationWorkerFactory.java:59)
+        at org.gradle.workers.internal.DefaultWorkerExecutor.lambda$submitWork$0(DefaultWorkerExecutor.java:174)
+        at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.runExecution(DefaultConditionalExecutionQueue.java:194)
+        at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.access$700(DefaultConditionalExecutionQueue.java:127)
+        at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner$1.run(DefaultConditionalExecutionQueue.java:169)
+        at org.gradle.internal.Factories$1.create(Factories.java:31)
+        at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:263)
+        at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:127)
+        at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:132)
+        at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.runBatch(DefaultConditionalExecutionQueue.java:164)
+        at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.run(DefaultConditionalExecutionQueue.java:133)
+        ... 2 more
 
 
 Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
@@ -826,31 +401,11 @@ You can use '--warning-mode all' to show the individual deprecation warnings and
 
 For more on this, please refer to https://docs.gradle.org/8.13/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
 
-BUILD FAILED in 10m 11s
-339 actionable tasks: 339 executed
+BUILD FAILED in 2m 16s
+261 actionable tasks: 227 executed, 34 up-to-date
 
 adity@Admin MINGW64 /d/appy/MeetKatsnew/meetkatsnew/android (main)
-$
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+$ 
 
 
 
