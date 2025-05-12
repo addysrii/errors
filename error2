@@ -1,4 +1,4 @@
- ./gradlew :app:assembleDebug --stacktrace
+/gradlew :app:assembleDebug --stacktrace 
 
 > Configure project :react-native-firebase_app
 :react-native-firebase_app package.json found at D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-firebase\app\package.json
@@ -19,175 +19,8 @@
 Android gradle plugin: 8.6.0
 Gradle: 8.13
 
-> Task :react-native-async-storage_async-storage:processDebugManifest
-package="com.reactnativecommunity.asyncstorage" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-async-storage\async-storage\android\src\main\AndroidManifest.xml.                                             
-Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
-Recommendation: remove package="com.reactnativecommunity.asyncstorage" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-async-storage\async-storage\android\src\main\AndroidManifest.xml.
-
-> Task :react-native-community_netinfo:processDebugManifest
-package="com.reactnativecommunity.netinfo" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-community\netinfo\android\src\main\AndroidManifest.xml.
-Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
-Recommendation: remove package="com.reactnativecommunity.netinfo" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-community\netinfo\android\src\main\AndroidManifest.xml.
-
-> Task :react-native-community_slider:processDebugManifest
-package="com.reactnativecommunity.slider" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-community\slider\android\src\main\AndroidManifest.xml.
-Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
-Recommendation: remove package="com.reactnativecommunity.slider" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-community\slider\android\src\main\AndroidManifest.xml.
-
-> Task :react-native-firebase_app:processDebugManifest
-package="io.invertase.firebase" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-firebase\app\android\src\main\AndroidManifest.xml.
-Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
-Recommendation: remove package="io.invertase.firebase" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-firebase\app\android\src\main\AndroidManifest.xml.
-
-> Task :react-native-gesture-handler:processDebugManifest
-package="com.swmansion.gesturehandler" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\src\main\AndroidManifest.xml.
-Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
-Recommendation: remove package="com.swmansion.gesturehandler" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-gesture-handler\android\src\main\AndroidManifest.xml.
-
-> Task :react-native-google-signin_google-signin:processDebugManifest
-package="com.reactnativegooglesignin" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-google-signin\google-signin\android\src\main\AndroidManifest.xml.
-Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
-Recommendation: remove package="com.reactnativegooglesignin" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-google-signin\google-signin\android\src\main\AndroidManifest.xml.
-
-> Task :react-native-picker_picker:processDebugManifest
-package="com.reactnativecommunity.picker" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-picker\picker\android\src\main\AndroidManifest.xml.
-Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
-Recommendation: remove package="com.reactnativecommunity.picker" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-picker\picker\android\src\main\AndroidManifest.xml.
-
-> Task :react-native-safe-area-context:processDebugManifest
-package="com.th3rdwave.safeareacontext" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-safe-area-context\android\src\main\AndroidManifest.xml.
-Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
-Recommendation: remove package="com.th3rdwave.safeareacontext" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-safe-area-context\android\src\main\AndroidManifest.xml.
-
-> Task :react-native-screens:processDebugManifest
-package="com.swmansion.rnscreens" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-screens\android\src\main\AndroidManifest.xml.
-Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
-Recommendation: remove package="com.swmansion.rnscreens" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-screens\android\src\main\AndroidManifest.xml.
-
-> Task :react-native-view-shot:processDebugManifest
-package="fr.greweb.reactnativeviewshot" found in source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-view-shot\android\src\main\AndroidManifest.xml.
-Setting the namespace via the package attribute in the source AndroidManifest.xml is no longer supported, and the value is ignored.
-Recommendation: remove package="fr.greweb.reactnativeviewshot" from the source AndroidManifest.xml: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\react-native-view-shot\android\src\main\AndroidManifest.xml.
-
-> Task :react-native-async-storage_async-storage:compileDebugJavaWithJavac
-D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-async-storage\async-storage\android\src\main\java\com\reactnativecommunity\asyncstorage\AsyncStorageModule.java:84: warning: [removal] onCatalystInstanceDestroy() in NativeModule has been deprecated and marked for removal
-  public void onCatalystInstanceDestroy() {
-              ^
-Note: Some input files use or override a deprecated API.
-Note: Recompile with -Xlint:deprecation for details.
-Note: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-async-storage\async-storage\android\src\javaPackage\java\com\reactnativecommunity\asyncstorage\AsyncStoragePackage.java uses unchecked or unsafe operations.
-Note: Recompile with -Xlint:unchecked for details.
-1 warning
-
-> Task :react-native-community_netinfo:compileDebugJavaWithJavac
-D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-community\netinfo\android\src\main\java\com\reactnativecommunity\netinfo\NetInfoModule.java:47: warning: [removal] onCatalystInstanceDestroy() in NativeModule has been deprecated and marked for removal
-    public void onCatalystInstanceDestroy() {
-                ^
-Note: Some input files use or override a deprecated API.
-Note: Recompile with -Xlint:deprecation for details.
-1 warning
-
-> Task :react-native-community_slider:compileDebugJavaWithJavac
-Note: Some input files use or override a deprecated API.
-Note: Recompile with -Xlint:deprecation for details.
-
-> Task :react-native-firebase_app:compileDebugJavaWithJavac
-Note: Some input files use or override a deprecated API.
-Note: Recompile with -Xlint:deprecation for details.
-
-> Task :react-native-reanimated:compileDebugJavaWithJavac
-Note: Some input files use or override a deprecated API.
-Note: Recompile with -Xlint:deprecation for details.
-Note: Some input files use unchecked or unsafe operations.
-Note: Recompile with -Xlint:unchecked for details.
-
-> Task :react-native-community_datetimepicker:compileDebugJavaWithJavac
-Note: Some input files use or override a deprecated API.
-Note: Recompile with -Xlint:deprecation for details.
-
-> Task :react-native-maps:compileDebugJavaWithJavac
-Note: Some input files use or override a deprecated API.
-Note: Recompile with -Xlint:deprecation for details.
-Note: Some input files use unchecked or unsafe operations.
-Note: Recompile with -Xlint:unchecked for details.
-
-> Task :react-native-google-signin_google-signin:compileDebugJavaWithJavac
-Note: Some input files use or override a deprecated API.
-Note: Recompile with -Xlint:deprecation for details.
-Note: D:\appy\MeetKatsNew\MeetKatsnew\node_modules\@react-native-google-signin\google-signin\android\src\main\java\com\reactnativegooglesignin\RNGoogleSigninModule.java uses unchecked or unsafe operations.
-Note: Recompile with -Xlint:unchecked for details.
-
-> Task :react-native-picker_picker:compileDebugJavaWithJavac
-Note: Some input files use or override a deprecated API.
-Note: Recompile with -Xlint:deprecation for details.
-
-> Task :react-native-view-shot:compileDebugJavaWithJavac
-Note: Some input files use or override a deprecated API.
-Note: Recompile with -Xlint:deprecation for details.
-
-> Task :react-native-gesture-handler:compileDebugKotlin                                                                        
-e: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerModule.kt:470:32 Only safe (?.) or non-null asserted (!!.) calls are allowed on a nullable receiver of type JavaScriptContextHolder?
-
 > Task :react-native-gesture-handler:compileDebugKotlin FAILED
-
-> Task :react-native-safe-area-context:compileDebugKotlin
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-safe-area-context/android/src/main/java/com/th3rdwave/safeareacontext/SafeAreaContextPackage.kt:27:11 'constructor ReactModuleInfo(String, String, Boolean, Boolean, Boolean, Boolean, Boolean)' is deprecated. use ReactModuleInfo(String, String, boolean, boolean, boolean, boolean)]                                
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-safe-area-context/android/src/main/java/com/th3rdwave/safeareacontext/SafeAreaContextPackage.kt:33:27 'getter for hasConstants: Boolean' is deprecated. This property is unused and it's planning to be removed in a future version of
-        React Native. Please refrain from using it.
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-safe-area-context/android/src/main/java/com/th3rdwave/safeareacontext/SafeAreaView.kt:59:23 'getter for uiImplementation: UIImplementation!' is deprecated. Deprecated in Java
-
-> Task :react-native-screens:compileDebugKotlin
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/CustomToolbar.kt:19:53 'FrameCallback' is deprecated. Use Choreographer.FrameCallback instead
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/CustomToolbar.kt:20:38 'FrameCallback' is deprecated. Use Choreographer.FrameCallback instead
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/RNScreensPackage.kt:64:17 'constructor ReactModuleInfo(String, String, Boolean, Boolean, Boolean, Boolean, Boolean)' is deprecated. use ReactModuleInfo(String, String, boolean, boolean, boolean, boolean)]
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/Screen.kt:45:77 Unchecked cast: CoordinatorLayout.Behavior<(raw) View!>? to BottomSheetBehavior<Screen>
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenContainer.kt:33:53 'FrameCallback' is deprecated. Use Choreographer.FrameCallback instead
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenContainer.kt:34:38 'FrameCallback' is deprecated. Use Choreographer.FrameCallback instead
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenFooter.kt:252:9 Parameter 'changed' is never used
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenFooter.kt:253:9 Parameter 'left' is never used
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenFooter.kt:254:9 Parameter 'top' is never used
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenFooter.kt:255:9 Parameter 'right' is never used
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenFooter.kt:256:9 Parameter 'bottom' is never used
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackFragment.kt:257:31 'setter for targetElevation: Float' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackFragment.kt:260:13 'setHasOptionsMenu(Boolean): Unit' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackFragment.kt:496:22 'onPrepareOptionsMenu(Menu): Unit' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackFragment.kt:504:22 'onCreateOptionsMenu(Menu, MenuInflater): Unit' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfig.kt:100:38 'getter for systemWindowInsetTop: Int' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfigViewManager.kt:7:34 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfigViewManager.kt:209:9 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfigViewManager.kt:211:13 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenStackHeaderConfigViewManager.kt:213:13 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:7:34 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:375:48 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:376:49 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:377:45 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:378:52 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:379:48 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:380:51 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:381:56 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:382:57 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt:383:51 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:55:42 'replaceSystemWindowInsets(Int, Int, Int, Int): WindowInsetsCompat' is deprecated. Deprecated in Java  
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:56:39 'getter for systemWindowInsetLeft: Int' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:58:39 'getter for systemWindowInsetRight: Int' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:59:39 'getter for systemWindowInsetBottom: Int' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:98:53 'getter for statusBarColor: Int' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:109:48 'getter for statusBarColor: Int' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:112:32 'setter for statusBarColor: Int' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:208:72 'getter for navigationBarColor: Int' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/ScreenWindowTraits.kt:214:16 'setter for navigationBarColor: Int' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt:5:34 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt:138:66 Elvis operator (?:) always returns the left operand of non-nullable type Boolean
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt:142:9 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt:144:13 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt:146:13 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt:148:13 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt:150:13 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt:152:13 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarManager.kt:154:13 'MapBuilder' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/SearchBarView.kt:153:43 Parameter 'flag' is never used
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/bottomsheet/BottomSheetDialogRootView.kt:7:34 'ReactFeatureFlags' is deprecated. Deprecated in Java
-w: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-screens/android/src/main/java/com/swmansion/rnscreens/bottomsheet/BottomSheetDialogRootView.kt:25:13 'ReactFeatureFlags' is deprecated. Deprecated in Java
+e: file:///D:/appy/MeetKatsNew/MeetKatsnew/node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerModule.kt:470:32 Only safe (?.) or non-null asserted (!!.) calls are allowed on a nullable receiver of type JavaScriptContextHolder?
 
 [Incubating] Problems report is available at: file:///D:/appy/MeetKatsNew/MeetKatsnew/android/build/reports/problems/problems-report.html
 
@@ -235,6 +68,35 @@ org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':react-n
         at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:303)
         at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:459)
         at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
+        at org.gradle.execution.plan.DefaultPlanExecutor.process(DefaultPlanExecutor.java:111)
+        at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph.executeWithServices(DefaultTaskExecutionGraph.java:138)    
+        at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph.execute(DefaultTaskExecutionGraph.java:123)
+        at org.gradle.execution.SelectedTaskExecutionAction.execute(SelectedTaskExecutionAction.java:35)
+        at org.gradle.execution.DryRunBuildExecutionAction.execute(DryRunBuildExecutionAction.java:51)
+        at org.gradle.execution.BuildOperationFiringBuildWorkerExecutor$ExecuteTasks.call(BuildOperationFiringBuildWorkerExecutor.java:54)
+        at org.gradle.execution.BuildOperationFiringBuildWorkerExecutor$ExecuteTasks.call(BuildOperationFiringBuildWorkerExecutor.java:43)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+        at org.gradle.execution.BuildOperationFiringBuildWorkerExecutor.execute(BuildOperationFiringBuildWorkerExecutor.java:40)
+        at org.gradle.internal.build.DefaultBuildLifecycleController.lambda$executeTasks$10(DefaultBuildLifecycleController.java:313)
+        at org.gradle.internal.model.StateTransitionController.doTransition(StateTransitionController.java:266)
+        at org.gradle.internal.model.StateTransitionController.lambda$tryTransition$8(StateTransitionController.java:177)      
+        at org.gradle.internal.work.DefaultSynchronizer.withLock(DefaultSynchronizer.java:46)
+        at org.gradle.internal.model.StateTransitionController.tryTransition(StateTransitionController.java:177)
+        at org.gradle.internal.build.DefaultBuildLifecycleController.executeTasks(DefaultBuildLifecycleController.java:304)    
+        at org.gradle.internal.build.DefaultBuildWorkGraphController$DefaultBuildWorkGraph.runWork(DefaultBuildWorkGraphController.java:220)
+        at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:263)
+        at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:127)
+        at org.gradle.composite.internal.DefaultBuildController.doRun(DefaultBuildController.java:181)
+        at org.gradle.composite.internal.DefaultBuildController.access$000(DefaultBuildController.java:50)
+        at org.gradle.composite.internal.DefaultBuildController$BuildOpRunnable.lambda$run$0(DefaultBuildController.java:198)  
+        at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
+        at org.gradle.composite.internal.DefaultBuildController$BuildOpRunnable.run(DefaultBuildController.java:198)
         at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
         at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
 Caused by: org.gradle.workers.internal.DefaultWorkerExecutor$WorkExecutionException: A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction
@@ -360,6 +222,35 @@ Caused by: org.gradle.workers.internal.DefaultWorkerExecutor$WorkExecutionExcept
         at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:303)
         at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:459)
         at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
+        at org.gradle.execution.plan.DefaultPlanExecutor.process(DefaultPlanExecutor.java:111)
+        at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph.executeWithServices(DefaultTaskExecutionGraph.java:138)    
+        at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph.execute(DefaultTaskExecutionGraph.java:123)
+        at org.gradle.execution.SelectedTaskExecutionAction.execute(SelectedTaskExecutionAction.java:35)
+        at org.gradle.execution.DryRunBuildExecutionAction.execute(DryRunBuildExecutionAction.java:51)
+        at org.gradle.execution.BuildOperationFiringBuildWorkerExecutor$ExecuteTasks.call(BuildOperationFiringBuildWorkerExecutor.java:54)
+        at org.gradle.execution.BuildOperationFiringBuildWorkerExecutor$ExecuteTasks.call(BuildOperationFiringBuildWorkerExecutor.java:43)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+        at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+        at org.gradle.execution.BuildOperationFiringBuildWorkerExecutor.execute(BuildOperationFiringBuildWorkerExecutor.java:40)
+        at org.gradle.internal.build.DefaultBuildLifecycleController.lambda$executeTasks$10(DefaultBuildLifecycleController.java:313)
+        at org.gradle.internal.model.StateTransitionController.doTransition(StateTransitionController.java:266)
+        at org.gradle.internal.model.StateTransitionController.lambda$tryTransition$8(StateTransitionController.java:177)      
+        at org.gradle.internal.work.DefaultSynchronizer.withLock(DefaultSynchronizer.java:46)
+        at org.gradle.internal.model.StateTransitionController.tryTransition(StateTransitionController.java:177)
+        at org.gradle.internal.build.DefaultBuildLifecycleController.executeTasks(DefaultBuildLifecycleController.java:304)    
+        at org.gradle.internal.build.DefaultBuildWorkGraphController$DefaultBuildWorkGraph.runWork(DefaultBuildWorkGraphController.java:220)
+        at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:263)
+        at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:127)
+        at org.gradle.composite.internal.DefaultBuildController.doRun(DefaultBuildController.java:181)
+        at org.gradle.composite.internal.DefaultBuildController.access$000(DefaultBuildController.java:50)
+        at org.gradle.composite.internal.DefaultBuildController$BuildOpRunnable.lambda$run$0(DefaultBuildController.java:198)  
+        at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
+        at org.gradle.composite.internal.DefaultBuildController$BuildOpRunnable.run(DefaultBuildController.java:198)
         at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
         at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
 Caused by: org.jetbrains.kotlin.gradle.tasks.CompilationErrorException: Compilation error. See log for more details
@@ -401,8 +292,8 @@ You can use '--warning-mode all' to show the individual deprecation warnings and
 
 For more on this, please refer to https://docs.gradle.org/8.13/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
 
-BUILD FAILED in 2m 16s
-261 actionable tasks: 227 executed, 34 up-to-date
+BUILD FAILED in 1m 5s
+279 actionable tasks: 12 executed, 267 up-to-date
 
 adity@Admin MINGW64 /d/appy/MeetKatsnew/meetkatsnew/android (main)
 $ 
